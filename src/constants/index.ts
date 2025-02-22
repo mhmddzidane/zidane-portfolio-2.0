@@ -62,14 +62,6 @@ const services: TService[] = [
 
 const technologies: TTechnology[] = [
   {
-    name: 'HTML 5',
-    icon: html,
-  },
-  {
-    name: 'CSS 3',
-    icon: css,
-  },
-  {
     name: 'JavaScript',
     icon: javascript,
   },
@@ -81,10 +73,7 @@ const technologies: TTechnology[] = [
     name: 'React JS',
     icon: reactjs,
   },
-  {
-    name: 'Redux Toolkit',
-    icon: redux,
-  },
+
   {
     name: 'Tailwind CSS',
     icon: tailwind,
@@ -93,10 +82,7 @@ const technologies: TTechnology[] = [
     name: 'bootstrp',
     icon: boostrap,
   },
-  {
-    name: 'Node JS',
-    icon: nodejs,
-  },
+
   {
     name: 'next',
     icon: nextjs,
@@ -109,10 +95,7 @@ const technologies: TTechnology[] = [
     name: 'Flutter',
     icon: flutter,
   },
-  {
-    name: 'bloc',
-    icon: bloc,
-  },
+
   {
     name: 'Firebase',
     icon: firebase,
@@ -133,11 +116,6 @@ const technologies: TTechnology[] = [
   {
     name: 'My SQL',
     icon: mysql,
-  },
-
-  {
-    name: 'git',
-    icon: git,
   },
 ];
 
